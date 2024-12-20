@@ -1,0 +1,15 @@
+# Ignore script data
+scripts/scripts.db
+
+# Ignore all backup files
+scripts/backup/
+
+# Ignore dupe folder
+scripts/dupe/
+
+# Ignore raw scripts
+scripts/raw/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
